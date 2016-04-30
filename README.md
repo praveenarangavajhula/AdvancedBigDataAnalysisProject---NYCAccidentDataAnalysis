@@ -1,3 +1,5 @@
+##Analyzing NYC Accident Data Using Spark
+
 In this project, we are looking to analyze a dataset provided by the New York Police Dept. The dataset details information of motor vehicle collisions in New York City and consists of around 800,000 rows. We will aim to draw interesting conclusions and make meaningful predictions based on this data. As of now, we are going to make the following analysis from the data set:
 Analyzing accident locations by borough layered with time
 Evaluating the type of accident with different times of the day
